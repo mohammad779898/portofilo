@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "title": "Flutter Mobile App Suite",
+      "description": "Cross-platform mobile applications with clean architecture, state management (Riverpod/Bloc), and beautiful UI.",
+      "tech": ["Flutter", "Dart", "Firebase"],
+      "link": "#"
+    },
+    {
+      "title": "Next.js SaaS Dashboard",
+      "description": "Full-stack dashboard with App Router, Server Actions, authentication, and real-time data.",
+      "tech": ["Next.js", "React", "Tailwind", "PostgreSQL"],
+      "link": "#"
+    },
+    {
+      "title": "Django REST API Platform",
+      "description": "Scalable backend APIs with Django REST Framework, JWT auth, Celery tasks, and comprehensive testing.",
+      "tech": ["Django", "Python", "DRF", "Redis"],
+      "link": "#"
+    },
+    {
+      "title": "Personal Portfolio",
+      "description": "This portfolio – modern Next.js site with a contact form that sends email via Resend. Ready to deploy free on Vercel.",
+      "tech": ["Next.js", "Tailwind", "Resend"],
+      "link": "#"
+    }
+  ],
+  "skills": [
+    { "name": "Flutter", "icon": "Smartphone", "level": 90, "color": "from-cyan-400 to-blue-500" },
+    { "name": "Next.js", "icon": "Code2", "level": 92, "color": "from-slate-200 to-white" },
+    { "name": "Django", "icon": "Server", "level": 85, "color": "from-green-400 to-emerald-600" },
+    { "name": "Python", "icon": "Code2", "level": 88, "color": "from-yellow-300 to-amber-500" },
+    { "name": "React", "icon": "Code2", "level": 90, "color": "from-sky-400 to-blue-600" },
+    { "name": "JavaScript / TypeScript", "icon": "Code2", "level": 93, "color": "from-yellow-400 to-orange-500" },
+    { "name": "Node.js", "icon": "Server", "level": 80, "color": "from-lime-400 to-green-600" },
+    { "name": "PostgreSQL / Firebase", "icon": "Database", "level": 78, "color": "from-indigo-400 to-purple-500" }
+  ]
+}
